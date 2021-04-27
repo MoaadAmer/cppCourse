@@ -1,0 +1,22 @@
+Enter seed
+White player casts 5, black player casts 5
+White player casts 3, black player casts 5
+Black plays first.
+ 12 11 10  9  8  7     6  5  4  3  2  1
++------------------+-+------------------+
++ W  |  |  |  B  | + + B  |  |  |  |  W +
++ W  |  |  |  B  | + + B  |  |  |  |  W +
++ W  |  |  |  B  | + + B  |  |  |  |  | +
++ W  |  |  |  |  | + + B  |  |  |  |  | +
++ W  |  |  |  |  | + + B  |  |  |  |  | +
++                  + +                  +
++ B  |  |  |  |  | + + W  |  |  |  |  | +
++ B  |  |  |  |  | + + W  |  |  |  |  | +
++ B  |  |  |  W  | + + W  |  |  |  |  | +
++ B  |  |  |  W  | + + W  |  |  |  |  B +
++ B  |  |  |  W  | + + W  |  |  |  |  B +
++------------------+-+------------------+
+ 13 14 15 16 17 18    19 20 21 22 23 24
+Black rolls 5-2.
+Enter Black move: 
+Missing user input - quiting game.
